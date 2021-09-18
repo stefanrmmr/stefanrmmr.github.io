@@ -5,6 +5,6 @@ My personal Website (work in progress)
 
 <object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://yoursite.com/the.pdf">
-        <p>Access the website here: <a href="https://github.com/stefanrmmr.io">rs. algorithmic analytics PDF</a>.</p>
+        <p>Access the website here: <a href="https://stefanrmmr.github.io/"> rs. algorithmic analytics</a>.</p>
     </embed>
 </object>
